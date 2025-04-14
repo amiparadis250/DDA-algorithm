@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ishimweamiparadis/Documents/UR-CST/Graphic design assignment/Assignment",
+      "program": "/Users/ishimweamiparadis/Documents/UR-CST/Graphic design assignment/Assignment/build/Debug/outDebug"
+    }
+  ]
+}
